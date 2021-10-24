@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "rnnoise",
+			"path": "..\\..\\rnnoise_c_ffi\\rnnoise"
+		},
+		{
+			"name": "noisereduction_MAIN",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
