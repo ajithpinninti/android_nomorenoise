@@ -3,8 +3,8 @@
 A new Flutter project.
 
 ## Getting Started
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
-![alt text](https://github.com/ajithpinninti/android_nomorenoise/blob/main/demo_files/13af6a4a-592f-4a8e-9da9-49128aed9651.jpeg?raw=true)
+
+![alt text](https://github.com/ajithpinninti/android_nomorenoise/blob/main/demo_files/13af6a4a-592f-4a8e-9da9-49128aed9651.jpeg)
 
 This project is a starting point for a Flutter application.
 
