@@ -1,19 +1,19 @@
 # noisereduction
 
-A new Flutter project.
+Android application which take noisey audio as input and emits clear output in our required format(.wav,.mp3,.flac) and also it'll take video as input and do noisecancellation on audio in video 
 
 ## Getting Started
 
 ![alt text](https://github.com/ajithpinninti/android_nomorenoise/blob/main/demo_files/13af6a4a-592f-4a8e-9da9-49128aed9651.jpeg)
 
-This project is a starting point for a Flutter application.
+![alt text](https://github.com/ajithpinninti/android_nomorenoise/blob/main/demo_files/1fceae70-892b-4495-88ef-f4414ceb729d.jpeg)
 
-A few resources to get you started if this is your first Flutter project:
+![alt text](https://github.com/ajithpinninti/android_nomorenoise/blob/main/demo_files/a9e41877-53bb-4d24-a0f8-ff345db82803.jpeg)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![alt text](https://github.com/ajithpinninti/android_nomorenoise/blob/main/demo_files/abe73c8e-91c9-4a8d-b1ab-925d246b755f.jpeg)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![alt text](https://github.com/ajithpinninti/android_nomorenoise/blob/main/demo_files/c4256e76-a236-48fb-84e1-0944ba89d8a2.jpeg)
+
+
+
 # noisereduction_MAIN
