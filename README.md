@@ -1,6 +1,6 @@
 # noisereduction
 
-Android application which take noisey audio as input and emits clear output in our required format.
+Android application takes noisy audio as input and emits clear output in our required format.
 -> It will process audio files and give output files without noise. We can save in our reqired format(.wav,.mp3,.flac)
 -> It can also  take video as input and do noisecancellation on audio in video.
 
